@@ -5,7 +5,7 @@ webpack4 + Vue2全家桶(vue-router、vuex、vue-i18n)配合axios请求插件搭
 
 1.安装node
     
-    本地电脑中安装nodejs，因为webpack4不再支持node 4，可以直接升级到8.x以上版本，也是为了更好的支持es6语法， 我的node版本为v9.8.0，请下载node进行安装。
+    本地电脑中安装nodejs，因为webpack4不再支持node 4，可以直接升级到8.x以上版本，也是为了更好的支持es6语法， 我的node版本为v9.8.0，请下载node进行安装。如果node版本不一致，可能会需要重新安装node-sass，命令为npm i node-sass -S --legacy-bundling。
 
 2.安装依赖包
     
